@@ -1,4 +1,4 @@
-import ColorCode;
+import colorcoder.ColorCode;
 public enum MajorColor implements ColorCode {
         WHITE(0),
         RED(1),
